@@ -1,6 +1,6 @@
 {
   "name": "signature-store",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Store Digital Signatures to Prevent Replay Attacks",
   "keywords": ["digital","signature","storage","level","leveldb"],
   "author": "John Henry <john@iamjohnhenry.com>",
